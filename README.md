@@ -6,7 +6,13 @@ La entrega está dividida en un notebook teórico y tres programas en Python, un
 ## Contenido
 
 - `Examen_3_2026_Daniel-Barillas.ipynb`  
-  Notebook con la parte teórica: propiedades identificadas, demostraciones, recurrencias, pseudocódigo, análisis de complejidad y para enlaces de entrega.
+  Jupyter Notebook con la parte teórica: propiedades identificadas, demostraciones, recurrencias, pseudocódigo, análisis de complejidad y para enlaces de entrega.
+
+- `Examen_3_2026_Daniel-Barillas.pdf`  
+  PDF con la parte teórica: propiedades identificadas, demostraciones, recurrencias, pseudocódigo, análisis de complejidad y para enlaces de entrega.
+  
+- `Examen_3_2026_Daniel-Barillas.html`  
+  HTML con la parte teórica: propiedades identificadas, demostraciones, recurrencias, pseudocódigo, análisis de complejidad y para enlaces de entrega.
 
 - `problema-1.py`  
 
